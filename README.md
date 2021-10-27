@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @s-batalov
+- 👋 Hi, I’m @s-batalov ( mainly using/contributing public repo https://github.com/radygenomics )
 - 👀 I’m interested in Bioinformatics
 - 🌱 I’m currently learning Long-Read Seq Technology in depth.
 - 💞️ I’m looking to collaborate on LRT, RNAseq, Precision Medicine.
